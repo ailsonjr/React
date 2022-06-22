@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+}
+
+.signal {
+  width: 300px;
+  padding-left: 200px;
+}
+
+.car-right {
+  transform: translateX(200px);
+  width: 100px;
+}
+
+.car-left {
+  width: 100px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 200px;
+  width: 300px;
+}
